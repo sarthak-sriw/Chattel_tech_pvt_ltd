@@ -21,7 +21,7 @@ Run the blocks to see output of each sub task:
  
  1.Companies whose difference between  %chg at two fixed time instances crosses 2 percent.
  
- 2.Performing technical indicators using stockstats library
+ 2.Performing technical indicators using stockstats library by using Pevious time instance's last price as open for current time instance. Current Last price can be close for current. 
 
 
 
